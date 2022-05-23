@@ -1,0 +1,3 @@
+DeviceFileEvents 
+|where SHA256 contains "82aa3fd6a25cda9e16689cfadea175091be010cecae537e517f392e0bef5ba0f"
+|where FolderPath contains "Temp"
